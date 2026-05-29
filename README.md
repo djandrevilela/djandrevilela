@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @djandrevilela
 - 👀 I’m interested in programming, series, movies and music.
-- 🌱 I’m currently learning JavaScript.
 - 📫 How to reach me andre.f.vilela@gmail.com
 
 <!---
